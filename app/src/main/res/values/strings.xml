@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Kultyapka</string>
+
+    <string name="label_addr">IP address</string>
+
+    <string name="msg_enter_addr">Enter IP address</string>
+
+    <string name="cmd_ignite">Ignition</string>
+    <string name="cmd_start">Start</string>
+    <string name="cmd_connect">Connect</string>
+
+    <string name="op_start">Run</string>
+    <string name="op_message">Message</string>
+    <string name="op_rotate">Rotate</string>
+    <string name="op_custom">Custom command</string>
+
+</resources>
